@@ -1,0 +1,6 @@
+nose.plugins.cover: ERROR: Coverage not available: unable to import coverage module
+
+----------------------------------------------------------------------
+Ran 0 tests in 0.001s
+
+OK
